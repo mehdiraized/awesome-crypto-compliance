@@ -42,6 +42,7 @@
 - **[Scorechain](https://www.scorechain.com/)** – Crypto risk monitoring and compliance software.
 - **[Crystal Blockchain](https://crystalblockchain.com/)** – Risk management and analytics platform for blockchain transactions.
 - **[ComplyAdvantage](https://complyadvantage.com/)** – AML screening and monitoring for crypto and finance.
+- **[FreezeRadar](https://freezeradar.com/)** – Free wallet blacklist and sanctions checker for freezeable assets (USDT, USDC, PAXG).
 - **[IdentityMind](https://www.identitymind.com/)** – Risk management platform for digital identities in crypto finance.
 
 ## Blockchain Analytics
